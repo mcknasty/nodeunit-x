@@ -8,7 +8,7 @@ node.js and the browser.
 
 # FORK
 
-This fork `nodeunit-x` is the maintained release for the gruntjs project.
+**This fork `nodeunit-x` is the maintained release for the gruntjs project.**
 
 
 ## DEPRECATED PROJECT
