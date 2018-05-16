@@ -1,4 +1,4 @@
-Nodeunit
+Nodeunit-x
 ========
 
 [![Build Status](https://travis-ci.org/caolan/nodeunit.svg?branch=master)](https://travis-ci.org/caolan/nodeunit)
@@ -6,9 +6,12 @@ Nodeunit
 Simple syntax, powerful tools. Nodeunit provides easy async unit testing for
 node.js and the browser.
 
+# FORK
 
-DEPRECATED PROJECT
------
+This fork `nodeunit-x` is the maintained release for the gruntjs project.
+
+
+## DEPRECATED PROJECT
 
 The project is very stale. We've kept it working on new versions of node, and sometimes merged small PRs that help teams relying on nodeunit.
 
