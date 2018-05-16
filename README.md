@@ -1,7 +1,7 @@
 Nodeunit-x
 ========
 
-[![Build Status](https://travis-ci.org/caolan/nodeunit.svg?branch=master)](https://travis-ci.org/caolan/nodeunit)
+[![Build Status](https://travis-ci.org/gruntjs/nodeunit-x.svg?branch=master)](https://travis-ci.org/caolan/nodeunit)
 
 Simple syntax, powerful tools. Nodeunit provides easy async unit testing for
 node.js and the browser.
