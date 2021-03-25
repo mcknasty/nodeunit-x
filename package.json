@@ -4,11 +4,15 @@
   "description": "Easy unit testing for node.js and the browser.",
   "maintainers": [
     {
-      "name": "Caolan McMahon",
-      "web": "https://github.com/caolan"
+      "name": "Vlad Filippov",
+      "web": "https://github.com/vladikoff"
     }
   ],
   "contributors": [
+    {
+      "name": "Caolan McMahon",
+      "web": "https://github.com/caolan"
+    },
     {
       "name": "Romain Beauxis",
       "web": "https://github.com/toots"

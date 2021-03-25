@@ -1,3 +1,10 @@
+Nodeunit-x contributors (sorted alphabetically)
+============================================
+
+* **[Vlad Filippov](https://github.com/vladikoff)**
+
+    * Security fixes, new releases
+
 Nodeunit contributors (sorted alphabetically)
 ============================================
 
