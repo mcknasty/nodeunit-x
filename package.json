@@ -68,7 +68,7 @@
   },
   "devDependencies": {
     "should": ">=13.2.3",
-    "uglify-js": ">=3.14.2"
+    "uglify-js": ">=3.17.4"
   },
   "bugs": {
     "url": "http://github.com/gruntjs/nodeunit-x/issues"
@@ -83,8 +83,8 @@
     "nodeunit": "./bin/nodeunit"
   },
   "dependencies": {
-    "ejs": "^3.1.6",
-    "tap": "^16.0.0"
+    "ejs": "^3.1.8",
+    "tap": "^16.3.4"
   },
   "scripts": {
     "test": "node ./bin/nodeunit"
