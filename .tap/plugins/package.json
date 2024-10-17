@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@tapjs/core": "file:///home/tmckeown/codez/github/nodeunit-x/node_modules/@tapjs/core"
+  },
+  "dependencies": {
+    "@tapjs/synonyms": "^4.0.0"
+  }
+}
